@@ -1,11 +1,9 @@
 # Carousel
-A basic image carousel 
+A basic image carousel without using JS file
 
 The files needed are:
 ```
 index.html
-script.js
 styles.css
 ```
 
-other files are shared from replit platform.

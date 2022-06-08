@@ -8,4 +8,3 @@ script.js
 styles.css
 ```
 
-other files are shared from replit platform.
